@@ -7,7 +7,11 @@
 ![2aciklama](2acıklama.png) ![1aciklamaresim](2resim.png)
 3) It also draws  the plot created with matplotlib to the interface. It draws and updates the shadow on the plot with the update_plot() function in the code according to the values received from the scaler.
 ![3aciklama](3acıklama.png) 
-https://github.com/serapcengiz/stajProject/assets/73667009/463c2679-c1f9-481a-89a2-2024c9009390 
+
+
+
+https://github.com/serapcengiz/stajProject/assets/73667009/f8be75fe-35ea-48eb-a5f8-cdfc989fb6fb
+
 
 
 
