@@ -1,3 +1,0 @@
-1) It draws a certain polygon with points on the plot created with matplotlib and turns this polygon into a 3-dimensional object with the object height requested by the user.
-2) An interface is created via Tkinter. Then 2 scales are used in this interface. Scaller is there for the user to set the sun_azimuth and sun_positon values. With these values received from the user, sun_positon is determined.
-3) It also draws the plot created with matplotlib to the interface and updates the plot on the plot with the update_plot() function in the code according to the values obtained from the scaller.
