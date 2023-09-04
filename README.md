@@ -16,11 +16,6 @@ https://github.com/serapcengiz/stajProject/assets/73667009/f8be75fe-35ea-48eb-a5
 
 
 ### Requests Library
-`import math`  
-`import matplotlib.pyplot as plt`  
-`import numpy as np`  
-`from mpl_toolkits.mplot3d.art3d import Poly3DCollection`  
-`import tkinter as tk`  
-`from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg`  
-`from mpl_toolkits.mplot3d.art3d import Line3DCollection`
-
+`pip install matplotlib`    
+`pip install numpy`   
+`pip install tkinter`  
