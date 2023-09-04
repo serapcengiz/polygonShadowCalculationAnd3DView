@@ -6,7 +6,8 @@
 2) 2)An interface is created via tkinter library.Then 2 scales are used in this interface.Scaller is there for the user to set the sun_Azimuth and sun_elevation values. With these values received from the user,sun_positon is determined.
 ![2aciklama](2acıklama.png) ![1aciklamaresim](2resim.png)
 3) It also draws  the plot created with matplotlib to the interface. It draws and updates the shadow on the plot with the update_plot() function in the code according to the values received from the scaler.
-![3aciklama](3acıklama.png) [<img src="https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg" width="50%">] (https://github.com/serapcengiz/stajProject/assets/73667009/463c2679-c1f9-481a-89a2-2024c9009390 "Now in Android:55")
+![3aciklama](3acıklama.png) 
+https://github.com/serapcengiz/stajProject/assets/73667009/463c2679-c1f9-481a-89a2-2024c9009390 
 
 
 
