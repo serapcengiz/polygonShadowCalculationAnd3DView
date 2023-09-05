@@ -10,7 +10,9 @@
 
 
 
-https://github.com/serapcengiz/stajProject/files/3D Çizim 2023-09-04 10-16-10.mp4
+
+https://github.com/serapcengiz/stajProject/assets/73667009/230dc8dd-790b-4f13-9977-ddb2e7c84527
+
 
 
 
