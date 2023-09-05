@@ -1,4 +1,4 @@
-# Staj Project
+# Intern Project
 
 ## The aim of the project is to draw the shadow of the given polygon according to the positon of the sun.
 1) It draws a ceratin polygon with points on the plot created with matplotlib and turns this polygon into a 3-dimensional object with the object height requested by the user.
