@@ -11,7 +11,11 @@
 
 
 
-https://github.com/serapcengiz/stajProject/assets/73667009/230dc8dd-790b-4f13-9977-ddb2e7c84527
+
+
+
+https://github.com/serapcengiz/stajProject/assets/73667009/49596a3d-b071-4326-8a05-134d7c524886
+
 
 
 
