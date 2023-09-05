@@ -8,6 +8,8 @@
 3) It also draws  the plot created with matplotlib to the interface. It draws and updates the shadow on the plot with the update_plot() function in the code according to the values received from the scaler.
 ![files/3aciklama](3aciklama.png) 
 
+![image](https://github.com/serapcengiz/stajProject/assets/73667009/c6bd7d49-d7c3-4fa3-9178-9ea695a5f8bc)
+![image](https://github.com/serapcengiz/stajProject/assets/73667009/7ff67843-91cd-4f5b-af86-29505fc05b0f)
 
 
 
